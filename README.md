@@ -23,7 +23,7 @@ bot.send_message(message='@here Hello MatterMost!')
 ```
 
 ### Testing a bot
-You can list your created bots with:  
+You can list your created bots with (*only lists bots inside `generated_bots/`*):  
 ```bash
 $ make list-bots
 Mybot.py
